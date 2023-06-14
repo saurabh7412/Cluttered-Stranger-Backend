@@ -1,0 +1,24 @@
+{
+  "name": "cluttered-stranger-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabh7412/Cluttered-Stranger-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabh7412/Cluttered-Stranger-Backend/issues"
+  },
+  "homepage": "https://github.com/saurabh7412/Cluttered-Stranger-Backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
