@@ -2508,5 +2508,28 @@
         }
       
       
-   ]
+   ],
+   "users":[
+    {
+      "username": "abc123",
+      "password": "abc123"
+    }
+   ],
+   "orders":[
+    {
+      "title": "",
+      "image": "",
+      "price": 0,
+      "username": "abc123",
+      "address":"abc",
+      "mobile": 123456789
+    }
+   ],
+   "admins":[
+      {
+        "username": "abc123",
+        "password": "abc123"
+      }
+   ],
+   "endpoint":[]
 }
