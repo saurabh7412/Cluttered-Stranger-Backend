@@ -2527,8 +2527,19 @@
    ],
    "admins":[
       {
-        "username": "abc123",
-        "password": "abc123"
+        "id": 1,
+        "username": "saurabh",
+        "password": "saurabh123"
+      },
+      {
+        "id": 2,
+        "username": "murad",
+        "password": "murad123"
+      },
+      {
+        "id": 1,
+        "username": "vishal",
+        "password": "vishal123"
       }
    ],
    "endpoint":[]
